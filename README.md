@@ -43,6 +43,10 @@ This project uses an Arduino microcontroller with environmental sensors to monit
 
 ## 📂 Repository Structure
 
+/code → Arduino source code
+/circuit → Circuit diagram (if added)
+/docs → Project documentation (optional)
+
 ---
 
 ## ▶️ How To Run
